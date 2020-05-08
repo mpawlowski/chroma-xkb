@@ -6,8 +6,9 @@ mkdir -p /tmp/xkb/symbols
 
 cat >/tmp/xkb/symbols/custom <<\EOF
 xkb_symbols "remote" {
-    key <TLDE> {         [          Escape ] };
-    key <CAPS> {         [         Shift_L ] };
+    key <TLDE>    {         [            Escape ] };
+    key <CAPS>    {         [           Shift_L ] };
+    key <LFSH>    {         [         Control_L ] };
 };
 EOF
 
