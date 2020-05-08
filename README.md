@@ -2,7 +2,7 @@
 
 Script to provide more natural keys for a Razer Orbweaver Chroma in Ubuntu. Just run `./configure.sh` to remap the keys.
 
-## default mappings
+## mappings
 
 | key | old | new |
 |---|---|---|
