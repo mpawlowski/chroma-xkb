@@ -1,6 +1,6 @@
 # chroma-xkb
 
-Script to provide more natural keys for a Razer Orbweaver Chroma in Ubuntu. Just run `./configure.sh` to remap the keys.
+Script to provide more natural keys for a Razer Orbweaver Chroma in Ubuntu. Run `./configure.sh` to remap the keys.
 
 ## mappings
 
